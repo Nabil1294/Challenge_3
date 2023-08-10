@@ -7,9 +7,9 @@ This is an application that enables employees to generate random passwords based
 
 
  ## Table of contents.
-prompted series of questions. 
-output box.
-Generate Password button.
+     prompted series of questions. 
+     output box.
+     Generate Password button.
 
 
  ### Question-1:
@@ -51,7 +51,7 @@ At the end user should atleast choose one of the options otherwise if user denie
 
 ### Deployed Page Link:
 
-
+https://nabil1294.github.io/Challenge_3/
 
 
 
